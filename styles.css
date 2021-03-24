@@ -12,6 +12,12 @@ section {
   font-family: Space-Mono, sans-serif;
 }
 
+footer {
+  font-family: Space-Mono, sans-serif;
+  color: #BDBDBD;
+  text-align: center;
+}
+
 article {
   padding: 2em 2em 0 2em;
 }
