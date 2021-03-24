@@ -17,7 +17,7 @@ article {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 3em;
 }
 
 button {
@@ -31,11 +31,13 @@ img {
 
 p {
   line-height: 1.5em;
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 
 @media only screen and (min-width: 768px) {
   img {width: 50%; padding: 3em;}
   article {width:50%; padding: 3em;}
   section {display: flex;}
+  h1 {font-size: 4em;}
+  p {font-size: 1.5em;}
 }
