@@ -1,0 +1,27 @@
+body {
+  padding: 1em;
+}
+header {
+  font-family: Inconsolata, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+section {
+  font-family: Space-Mono, sans-serif;
+  display: flex;
+}
+
+h1 {
+  color: red;
+  font-size: 4em;
+  }
+
+button {
+  text-transform: uppercase;
+}
+
+@media only screen and (min-width: 768px) {
+  img {width: 50%;}
+  article {width:50%;}
+  display: none;
+}
