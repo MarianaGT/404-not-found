@@ -1,11 +1,13 @@
 body {
   padding: 1em;
 }
+
 header {
   font-family: Inconsolata, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
 }
+
 section {
   font-family: Space-Mono, sans-serif;
   display: flex;
@@ -18,6 +20,10 @@ h1 {
 
 button {
   text-transform: uppercase;
+}
+
+img {
+  padding: 4em;
 }
 
 @media only screen and (min-width: 768px) {
