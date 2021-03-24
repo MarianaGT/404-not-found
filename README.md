@@ -38,18 +38,19 @@
 ![404-not-found](https://user-images.githubusercontent.com/64441365/112390061-57846700-8cbb-11eb-81c3-5e740f409ca2.png)
 
 This page is a common error users get when their browser was able to communicate with a server, but the server could not find what was requested.
-To stop visitors from freaking out, a nice message can be displayed to inform people what is happening.
-This challenge was completed in order to make that message legible, pleasant, and suitable for mobile and desktop devices.
-Code feedback is always welcome.
 
-- Your wisdom? :)
+To stop visitors from freaking out, a nice message can be displayed to inform people what is happening.
+
+This challenge was completed in order to make that message legible, pleasant, and suitable for mobile and desktop devices.
+
+Code feedback is always welcome.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 
 ## Acknowledgements
 
@@ -62,6 +63,6 @@ Code feedback is always welcome.
 
 ## Contact
 
-- Portfolio [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- LinkedIn [@your-twitter](https://{twitter.com/your-username})
+- [Portfolio](https://mgalan-portfolio.netlify.app/)
+- [Github](https://github.com/MarianaGT)
+- [LinkedIn](https://linkedin.com/in/mariana-gt)
