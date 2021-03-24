@@ -16,6 +16,7 @@ footer {
   font-family: Space-Mono, sans-serif;
   color: #BDBDBD;
   text-align: center;
+  margin-top: 4em;
 }
 
 article {
@@ -32,11 +33,13 @@ button {
   color: white;
   border: none;
   padding: 1.5em 2.8em;
+  margin: 2em 0;
 }
 
 img {
   padding: 2em 2em 0 2em;
   width: 80%;
+  margin-top: 2em;
 }
 
 p {
