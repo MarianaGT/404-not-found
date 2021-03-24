@@ -40,7 +40,6 @@
 This page is a common error users get when their browser was able to communicate with a server, but the server could not find what was requested.
 
 To stop visitors from freaking out, a nice message can be displayed to inform people what is happening.
-
 This challenge was completed in order to make that message legible, pleasant, and suitable for mobile and desktop devices.
 
 Code feedback is always welcome.
