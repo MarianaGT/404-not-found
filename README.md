@@ -63,6 +63,6 @@ Code feedback is always welcome.
 
 ## Contact
 
-- [Portfolio](https://mgalan-portfolio.netlify.app/)
-- [Github](https://github.com/MarianaGT)
-- [LinkedIn](https://linkedin.com/in/mariana-gt)
+- [Open Studio - portfolio](https://mgalan-portfolio.netlify.app/)
+- [Web Developer projects](https://github.com/MarianaGT)
+- [LinkedIn profile](https://linkedin.com/in/mariana-gt)
