@@ -13,20 +13,19 @@ section {
 }
 
 article {
-  padding: 3em;
+  padding: 2em 2em 0 2em;
 }
 
 h1 {
-  color: red;
   font-size: 4em;
-  }
+}
 
 button {
   text-transform: uppercase;
 }
 
 img {
-  padding: 3em;
+  padding: 2em 2em 0 2em;
   width: 80%;
 }
 
@@ -36,7 +35,7 @@ p {
 }
 
 @media only screen and (min-width: 768px) {
-  img {width: 50%;}
-  article {width:50%;}
+  img {width: 50%; padding: 3em;}
+  article {width:50%; padding: 3em;}
   section {display: flex;}
 }
