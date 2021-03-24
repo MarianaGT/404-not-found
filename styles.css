@@ -26,6 +26,11 @@ img {
   padding: 4em;
 }
 
+p {
+  line-height: 1.5em;
+  font-size: 1.5em;
+}
+
 @media only screen and (min-width: 768px) {
   img {width: 50%;}
   article {width:50%;}
