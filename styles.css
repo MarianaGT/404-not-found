@@ -10,7 +10,10 @@ header {
 
 section {
   font-family: Space-Mono, sans-serif;
-  display: flex;
+}
+
+article {
+  padding: 3em;
 }
 
 h1 {
@@ -23,7 +26,8 @@ button {
 }
 
 img {
-  padding: 4em;
+  padding: 3em;
+  width: 80%;
 }
 
 p {
@@ -34,5 +38,5 @@ p {
 @media only screen and (min-width: 768px) {
   img {width: 50%;}
   article {width:50%;}
-  display: none;
+  section {display: flex;}
 }
